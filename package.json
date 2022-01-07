@@ -1,0 +1,21 @@
+{
+  "name": "next-basic",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "axios": "^0.24.0",
+    "mongodb": "^4.2.2",
+    "next": "^12.0.7",
+    "next-connect": "^0.11.0",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "uuid": "^8.3.2",
+    "xhr2": "^0.2.1",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
